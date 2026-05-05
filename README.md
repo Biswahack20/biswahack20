@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswahack20&label=Profile%20views&color=0e75b6&style=flat" alt="biswahack20" /> </p>
 # 💫 Hi 👋, I'm Biswarupa Swain
 **A passionate Full Stack Developer || Machine Learning Engineer || Cyber Security Enthusiasts from India**
 
@@ -41,4 +42,4 @@ Email Me 👉 ✉️ **biswarupaswainswain942@gmail.com** For Collaboration/Proj
 ![](https://github-contributor-stats.vercel.app/api?username=biswahack20&limit=1&theme=solarized-dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswahack20&label=Profile%20views&color=0e75b6&style=flat" alt="biswahack20" /> </p>
+[![Biswarupa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biswahack20&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/biswahack20/biswahack20/github-readme-activity-graph)
